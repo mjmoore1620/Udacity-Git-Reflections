@@ -23,3 +23,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
     Both branches have the same HEAD with changes from both. Changes that conflict prevent the merge until resolved or bypassed. The diagram shows the history in a human readable way.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    Pros: It can combine files and changes for the user and doesn't overstep it's bounds with conflicts
+    Cons: It can't make inferences needed to resolve all conflicts. 
+
