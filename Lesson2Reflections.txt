@@ -19,3 +19,7 @@ How do the diagrams help you visualize the branch structure?
 
     It shows whats available from the perspective of a given commit, and also clearly shows the order.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    Both branches have the same HEAD with changes from both. Changes that conflict prevent the merge until resolved or bypassed. The diagram shows the history in a human readable way.
+
