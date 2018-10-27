@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I'd use google drive to share files and some kind of chat room to communicate. Opening files would be easier and there would be less password management. Maintaining the order that git enforces would be near impossible.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
