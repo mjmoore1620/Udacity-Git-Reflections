@@ -23,7 +23,6 @@ and what would be harder?
 
     I'd use google drive to share files and some kind of chat room to communicate. Opening files would be easier and there would be less password management. Maintaining the order that git enforces would be near impossible.
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I'm working on a new feature that might interfere with master functionality or when I'll need other people's approval to affect the master branch. Making changes directly to master is more straight-forward, while using branches is more collaboration and experimentation friendly.
